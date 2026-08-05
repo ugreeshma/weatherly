@@ -360,12 +360,12 @@ a {
   .navbar a {
     padding: 10px 15px;
   }
-  footer {
+ /* footer {
     position: relative;
     margin-top: 26vh;
     font-size: 12px;
     padding: 2px;
-  }
+  }*/
 }
 
 @media (max-width: 680px) {
