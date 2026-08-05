@@ -415,7 +415,12 @@ footer {
 width:100%;
   color: rgb(185, 182, 182);
   text-align: center;
-  padding: 5px;
+  padding:20px;
+    margin: 0;
+    width: 100vw;
+    margin-left: calc(50% - 50vw);
+    box-sizing: border-box;
+
   margin-top: 2px;
   /* position: fixed;
     left: 0;
